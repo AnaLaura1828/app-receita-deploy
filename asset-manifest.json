@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/app-receita-deploy/static/css/main.073c9b0a.css",
+    "main.js": "/app-receita-deploy/static/js/main.b3caa347.js",
+    "static/js/787.3184aca9.chunk.js": "/app-receita-deploy/static/js/787.3184aca9.chunk.js",
+    "static/media/logo.svg": "/app-receita-deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/app-receita-deploy/index.html",
+    "main.073c9b0a.css.map": "/app-receita-deploy/static/css/main.073c9b0a.css.map",
+    "main.b3caa347.js.map": "/app-receita-deploy/static/js/main.b3caa347.js.map",
+    "787.3184aca9.chunk.js.map": "/app-receita-deploy/static/js/787.3184aca9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b3caa347.js"
+  ]
+}
